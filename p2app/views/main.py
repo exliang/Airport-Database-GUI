@@ -1,11 +1,4 @@
-# p2app/views/main.py
-#
-# ICS 33 Spring 2024
-# Project 2: Learning to Fly
-#
 # The outermost shell of the user interface.
-#
-# YOU WILL NOT NEED TO MODIFY THIS FILE AT ALL
 
 import tkinter
 import tkinter.messagebox
