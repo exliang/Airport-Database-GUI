@@ -1,13 +1,6 @@
-# p2app/views/event_handling.py
-#
-# ICS 33 Spring 2024
-# Project 2: Learning to Fly
-#
 # Shared functionality that allows user interface components to receive events
 # (e.g., the events returned from the p2app.engine package, or events that are
 # internal to the user interface).
-#
-# YOU WILL NOT NEED TO MODIFY THIS FILE AT ALL
 
 import tkinter
 
