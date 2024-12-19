@@ -1,15 +1,4 @@
-# p2app/engine/main.py
-#
-# ICS 33 Spring 2024
-# Project 2: Learning to Fly
-#
 # An object that represents the engine of the application.
-#
-# This is the outermost layer of the part of the program that you'll need to build,
-# which means that YOU WILL DEFINITELY NEED TO MAKE CHANGES TO THIS FILE.
-
-# must execute this statement every time a connection is made: PRAGMA foreign_keys = ON;
-# part of program to communicate w the airport.db so the GUI can obtain & modify info in that database
 
 from .continent_events import *
 from .country_events import *
