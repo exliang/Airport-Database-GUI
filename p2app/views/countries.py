@@ -1,12 +1,5 @@
-# p2app/views/countries.py
-#
-# ICS 33 Spring 2024
-# Project 2: Learning to Fly
-#
 # This is the portion of the user interface that is displayed when the
 # Edit / Countries menu item is selected.
-#
-# YOU WILL NOT NEED TO MODIFY THIS FILE AT ALL
 
 import tkinter
 import tkinter.messagebox
