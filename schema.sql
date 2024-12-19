@@ -1,18 +1,3 @@
--- schema.sql
---
--- ICS 33 Spring 2024
--- Project 2: Learning to Fly
---
--- YOU WILL NOT NEED TO MODIFY THIS FILE OR EXECUTE IT IN ANY WAY.  It is
--- provided only to show you the structure of the database that's already
--- in "airport.db".
---
--- The data dictionary available at the following link describes the meanings
--- of the corresponding columns in the original data from which "airport.db"
--- was created.
---
--- https://ourairports.com/help/data-dictionary.html
-
 
 CREATE TABLE continent (
     continent_id INTEGER NOT NULL PRIMARY KEY,
